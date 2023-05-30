@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  mason: ^0.1.0-dev.49
 
 
 dev_dependencies:
