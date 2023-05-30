@@ -1,0 +1,14 @@
+name: clean_architecture_with_bloc
+
+description: A brick for generating a clean architecture structure with bloc.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bloc: ^7.0.0
+
+files:
+  - lib/data/CounterRepository.dart
+  - lib/domain/Counter.dart
+  - lib/presentation/bloc/CounterBloc.dart
+  - lib/presentation/CounterPage.dart
