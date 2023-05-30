@@ -1,0 +1,1 @@
+cd lib/widgets && mason make widget
